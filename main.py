@@ -1,3 +1,4 @@
+#ZzONEx (я)
 def my_superfunction():
     print('what an awesome print!')
 def main():
